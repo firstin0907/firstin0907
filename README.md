@@ -2,7 +2,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=firstin0907)](https://solved.ac/firstin0907/)
 
-- 📊 Codeforces : [firstin0907](https://codeforces.com/profile/firstin0907)
+- 📊 Codeforces handle: [firstin0907](https://codeforces.com/profile/firstin0907)
+
+- I'm interested in C++.
 
 <!--
 **firstin0907/firstin0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
