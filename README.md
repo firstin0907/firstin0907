@@ -4,7 +4,7 @@
 #### Hanyang University, Seoul, Korea (Mar 2019 - Feb 2025(Expected))
 - Department of Computer Science
 - Double major in Department of Sociology
-- 4.23/4.5 GPA (4.23/4.5 Major GPA)
+- 4.23/4.5 GPA (4.23/4.5 Major[Department of Computer Science] GPA)
 
 ## Awards
 - The 2023 ICPC Asia Seoul Regional Contest [13th Place](http://static.icpckorea.net/2023/regional/scoreboard/) (제 23회 한국 대학생 프로그래밍 경시대회 장려상)
