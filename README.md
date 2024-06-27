@@ -17,7 +17,7 @@
 - https://github.com/firstin0907/MimicOpenGL-withSDL
   
 #### Magicfour Remake
-- The 3D version of 'Magicfour', the magic action role playing game.
+- The 3D version of 'Magicfour', the magic action role playing game, made by using DirectX.
 - https://github.com/firstin0907/Magicfour-Remake
 
 ## Work Experience
