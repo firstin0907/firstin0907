@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+## Education
+#### Hanyang University, Seoul, Korea (Mar 2019 - Feb 2025(Expected))
+- Department of Computer Science
+- Double major in Department of Sociology
+- 4.23/4.5 GPA (4.23/4.5 Major GPA)
+
+## Awards
+- The 2023 ICPC Asia Seoul Regional Contest [13th Place](http://static.icpckorea.net/2023/regional/scoreboard/) (제 23회 한국 대학생 프로그래밍 경시대회 장려상)
+- 제 2회 현대모비스 알고리즘 경진대회 학생부 34위(장려상)
+- 2023학년도 1학기 한양학업우수상 최우수상
+
+## Project
+#### MimicOpenGL
+- The small toy 3D software rasterizer using C++ and SDL2.
+- https://github.com/firstin0907/MimicOpenGL-withSDL
+  
+#### Magicfour Remake
+- The 3D version of 'Magicfour', the magic action role playing game.
+- https://github.com/firstin0907/Magicfour-Remake
+
+## Work Experience
+TBU
+
 <!--
 
 - 📊 Codeforces handle: [firstin0907](https://codeforces.com/profile/firstin0907)
